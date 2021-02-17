@@ -1,0 +1,9 @@
+input[type=number]::-webkit-inner-spin-button {
+    opacity: 2
+}
+.btn-success{
+margin-right: 4px;
+}
+input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched{
+    border:1px solid red;
+}
